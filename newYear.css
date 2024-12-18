@@ -1,0 +1,32 @@
+/****** ----Common sections styling---- ******/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: 500;
+  font-variation-settings: "wdth" 100;
+}
+
+/****** ---- Colors & Backgrounds ---- ******/
+/** -- Colors -- **/
+/** -- Backgrounds -- **/
+
+/****** ---- Text Styling ---- ******/
+
+/****** ----'header'---- ******/
+
+/****** ----'main'---- ******/
+/** --'discount' section styling-- **/
+/** --'party' section styling-- **/
+/** --'membership' section styling-- **/
+/** --'offer' section styling-- **/
+/** --'sale' section styling-- **/
+/** --'portfolio' section styling-- **/
+/** --'subscription' section styling-- **/
+
+/****** ----'footer'---- ******/
